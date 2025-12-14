@@ -55,8 +55,8 @@ main {
 }
 
 .social-icon {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     border: 2px solid #2d3748;
     display: flex;
@@ -68,8 +68,8 @@ main {
 }
 
 .social-icon svg {
-    width: 28px;
-    height: 28px;
+    width: 20px;
+    height: 20px;
 }
 
 .social-icon:hover {
