@@ -148,7 +148,7 @@ main {
 }
 
 .cursor {
-    color: #2d3748;
+    color: #f1f1f1;
     animation: blink 1s infinite;
 }
 
