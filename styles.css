@@ -18,6 +18,8 @@ main {
     padding: 2rem 1rem;
 }
 
+
+
 /* Hero Section - Centered */
 #hero {
     min-height: 100vh;
@@ -32,7 +34,7 @@ main {
 .name {
     font-size: 4rem;
     font-weight: 700;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     color: #2d3748;
 }
 
@@ -43,8 +45,17 @@ main {
 .subtitle {
     font-size: 1.5rem;
     color: #718096;
+    margin-bottom: 0rem;
+    font-weight: 400;
+    font-family: 'Ubuntu' , -apple-system , BlinkMacSystemFont,
+}
+
+.subtitle_subnames {
+    font-size: 1rem;
+    color: #718096;
     margin-bottom: 3rem;
     font-weight: 400;
+    font-family: 'Ubuntu' , -apple-system , BlinkMacSystemFont,  'Courier New'
 }
 
 /* Social Links */
@@ -351,3 +362,4 @@ footer {
         text-align: center;
     }
 }
+
